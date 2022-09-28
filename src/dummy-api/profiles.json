@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Harry",
+    "experience": 7,
+    "image": "ava1.png"
+  },
+  {
+    "name": "Jamal",
+    "experience": 1,
+    "image": "ava2.png"
+  },
+  {
+    "name": "Ashish",
+    "experience": 2,
+    "image": "ava3.png"
+  },
+  {
+    "name": "Tony",
+    "experience": 4,
+    "image": "ava4.png"
+  }
+]

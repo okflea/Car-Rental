@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Hyundai Eon",
+    "rent": 1500,
+    "model": 2012,
+    "transmission": "Manual",
+    "milage": 21,
+    "image": "Eon.png"
+  },
+  {
+    "name": "Honda Civic",
+    "rent": 3000,
+    "model": 2012,
+    "transmission": "Manual",
+    "milage": 14,
+    "image": "civic.png"
+  },
+  {
+    "name": "Mitsubishi Lancer Evo",
+    "rent": 6000,
+    "model": 2005,
+    "transmission": "Manual",
+    "milage": 13,
+    "image": "evo.png"
+  },
+  {
+    "name": "Lexus",
+    "rent": 7500,
+    "model": 2012,
+    "transmission": "Automatic",
+    "milage": 14,
+    "image": "lexus.png"
+  },
+  {
+    "name": "Volkswagen Van",
+    "rent": 2500,
+    "model": 2000,
+    "transmission": "Manual",
+    "milage": 20,
+    "image": "vw.png"
+  },
+  {
+    "name": "Mahindra Jeep",
+    "rent": 2500,
+    "model": 2000,
+    "transmission": "Manual",
+    "milage": 21,
+    "image": "jeep.png"
+  }
+]
