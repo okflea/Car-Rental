@@ -2,7 +2,7 @@
 
 A Car Renting App made with React , Chakra ui and care !
 
-##Tech Stack
+## Tech Stack
 
 HTML , CSS , JS , REACT 
 
